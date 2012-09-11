@@ -1,0 +1,71 @@
+body {
+    font-family: Calibri, Verdana, Arial;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    width: 880px;
+}
+
+table {
+    text-align: center;
+    text-align: center;
+    padding: 1px;
+    border: 1px solid #D0D0D0;
+    background: #ffffff;
+}
+
+th {
+    text-align: center;
+    padding: 1px;
+    border: 1px solid #D0D0D0;
+    background: #e3f0f7;
+}
+
+td {
+    padding: 4px;
+}
+
+tr:hover {
+    background: #e3f0f7;
+}
+
+.raw_vLeft, .park_vLeft, .mle_vLeft {
+    background: #CCFFFF;
+}
+
+.raw_vRight, .park_vRight, .mle_vRight {
+    background: #FFFF99;
+}
+
+#validation, #warning {
+    color: red;
+    font-weight: bold;
+}
+
+#center {
+    text-align: center;
+}
+
+#menu {
+    font-family: Calibri, Verdana, Sans-serif;
+    background-color: #f9f9f9;
+    border: 1px solid #D0D0D0;
+    color: #002166;
+    display: block;
+    font-weight: bold;
+    margin: 4px 0 10px 0;
+    padding: 12px 10px 12px 10px;
+    text-align: center;
+}
+
+#stufftoknow, #FAQ, #release, #contact {
+    display: none;
+}
+
+#raw_pitcher_vLeft {
+    background: #FFFFF9;
+}
+
+#raw_pitcher_vRight {
+    background: #CC99FF;
+}
