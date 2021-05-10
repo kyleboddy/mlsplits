@@ -2,6 +2,7 @@ mlsplits
 ========
 
 ###Minor League Splits - Reborn (and now dead)
+### And now back!!! This repo will be an old archive, but the new Minor League Splits is up. Same URL. Go check it out.
 original author: Jeff Sackmann<br/>
 rebooted author: Kyle Boddy (kyle.boddy@gmail.com)
 
